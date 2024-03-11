@@ -1,4 +1,4 @@
-## Hello World! It's HJ's CodeGarden 👋
+## It's HJ's CodeGarden 👋
 
 ### Skills
 #### Frontend
