@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp; <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helina0610&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Helina0610&show_icons=true&theme=buefy)
 
 
 <!--
